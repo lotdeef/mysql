@@ -5,7 +5,7 @@ project: mysql
 target: mysql-fuzz
 
 # Base image to run the binary in.
-image: ghcr.io/lotdeef/mysql:latest
+# image: ghcr.io/lotdeef/mysql:latest
 
 # List of commands used to test the target
 cmds:
